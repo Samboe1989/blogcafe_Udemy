@@ -242,3 +242,12 @@ img {
 .curso:last-of-type {
   border: none;
 }
+
+/** Contacto **/
+
+.contacto-bg {
+  background-image: url(../img/contacto.jpg);
+  height: 48rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
